@@ -1,15 +1,16 @@
-id: opecha:P000346
+id: P000346
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG10250
   title: ཧོར་གླིང་བསྡུས་པ།
-  volume:
+  author: ''
+  volumes:
     b4ed608b3c07468e8a7497d9c32d24b0:
       image_group_id: I1KG10252
       title: Volume 1 of hor gling bsdus pa/
       volume_number: 1
       total_pages: 426
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཧོར་གླིང་བསྡུས་པ།
   author: ''
